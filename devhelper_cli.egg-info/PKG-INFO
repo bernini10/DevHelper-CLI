@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: devhelper-cli
+Version: 0.1.0
+Summary: DevHelper CLI - Automate development tasks efficiently.
+Home-page: https://github.com/your-username/DevHelper-CLI
+Author: Your Name
+Author-email: your.email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: click>=8.0.0
+
+# My Project
+
+Project Description
+
+## Installation
+
+
+
+## Usage
+
+
